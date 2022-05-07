@@ -1,0 +1,4 @@
+name: Jdaplugin
+version: '1.0-SNAPSHOT'
+main: io.github.stupidgame.jdaplugin.Jdaplugin
+api-version: 1.16
